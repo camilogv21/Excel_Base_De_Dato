@@ -1,0 +1,22 @@
+{
+  "name": "consulta_node",
+  "version": "1.0.0",
+  "description": "Montar un excel a la base de datos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camilogv21/Excel_Base_De_Dato.git"
+  },
+  "author": "Juan Camilo Galeano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/camilogv21/Excel_Base_De_Dato/issues"
+  },
+  "homepage": "https://github.com/camilogv21/Excel_Base_De_Dato#readme",
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  }
+}
